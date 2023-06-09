@@ -1,1 +1,1 @@
-# Digital Signal Processing is the processing of signals that are, all-in-all, digital. I thoroughly enjoyed this class taught by Professor Tom Fletcher at UVA. To learn about and implement some of the most fundamental algorithms to our times was a blessing!
+### Digital Signal Processing is the processing of signals that are, all-in-all, digital. I thoroughly enjoyed this class taught by Professor Tom Fletcher at UVA. To learn about and implement some of the most fundamental algorithms to our times was a blessing!
